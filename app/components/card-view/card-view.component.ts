@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-import { IResult, IResultInfo } from 'src/app/models/customer';
+import { IResult, IResultInfo } from '../../models/customer';
 
 @Component({
   selector: 'cm-card-view',

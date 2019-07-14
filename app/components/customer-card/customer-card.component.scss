@@ -1,4 +1,4 @@
-@import '../../../variables';
+// @import '../../../_variables';
 
 .mat-card-content {
   display: flex;
@@ -17,7 +17,7 @@
 }
 
 .mat-card-header {
-  background-color: $primary;
+  // background-color: $primary;
   border-radius: 4px 4px 0px 0px;
   padding-top: 16px;
   display: flex;
