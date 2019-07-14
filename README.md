@@ -1,3 +1,3 @@
-# angular-8-registration-login-example-fqqxct
+# customer-manager-stackblitz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-8-registration-login-example-fqqxct)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/customer-manager-stackblitz)
