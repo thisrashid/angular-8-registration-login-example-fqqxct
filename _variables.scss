@@ -1,4 +1,5 @@
 @import '~@angular/material/theming';
+@import './styles';
 
 // Copy the palettes from your selected theme (usually theme.scss).
 $app-primary: mat-palette($mat-indigo);

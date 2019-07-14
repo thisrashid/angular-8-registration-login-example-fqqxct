@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, ChangeDetectionStrategy } from '@angular/core';
-import { ICustomer } from 'src/app/models/customer';
+import { ICustomer } from '../../models/customer';
 
 @Component({
   selector: 'cm-customer-card',

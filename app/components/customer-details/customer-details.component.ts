@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter, ChangeDetectionStrategy } from '@angular/core';
-import { ICustomer } from 'src/app/models/customer';
+import { ICustomer } from '../../models/customer';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 
 @Component({

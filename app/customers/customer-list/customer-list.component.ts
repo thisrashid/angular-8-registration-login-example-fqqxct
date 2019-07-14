@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CustomersService } from '../customers.service';
-import { IResult, IResultInfo } from 'src/app/models/customer';
+import { IResult, IResultInfo } from '../../models/customer';
 import { ActivatedRoute } from '@angular/router';
 import { switchMap } from 'rxjs/operators';
 

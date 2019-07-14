@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { CustomersService } from '../customers.service';
-import { ICustomer } from 'src/app/models/customer';
+import { ICustomer } from '../../models/customer';
 import { FormGroup } from '@angular/forms';
 import { Location } from '@angular/common';
 
